@@ -2,11 +2,12 @@
 
 To Read Any csv file and import in database:
 
-- [Clone Repository](https://github.com/lokeshrangani/importCsv).
+- git clone https://github.com/lokeshrangani/importCsv.git.
 - Rename '.env.example' to '.env'.
-- Run Migration [php artisan migrate].
+- Run Migration php artisan migrate.
 - php artisan serve.
-- [Go to](127.0.0.1:8000)
+- Sample CSV File https://github.com/lokeshrangani/importCsv/blob/master/public/uploads/test.csv
+- Go to http://127.0.0.1:8000
 
 ## License
 
